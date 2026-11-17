@@ -1,0 +1,11 @@
+# Archivos del sistema / editores
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Dependencias y artefactos generados
+node_modules/
+docs/api/
+*.log
